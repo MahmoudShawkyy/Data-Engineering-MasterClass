@@ -1,2 +1,2 @@
 # Data-Engineering-MasterClass
-Assigments 
+This repo is for delivering assignments  
